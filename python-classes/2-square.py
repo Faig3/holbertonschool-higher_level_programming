@@ -1,8 +1,9 @@
 #!/usr/bin/python
+"""Module for Square class."""
 
 
 class Square:
-    """Module for Square class."""
+    """Defines a square."""
     def __init__(self, size=0):
          """Initializes the square size."""
          if not instance(size, int):
