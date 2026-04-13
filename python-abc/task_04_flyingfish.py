@@ -10,7 +10,7 @@ class Fish:
     def swim(self):
         """Fish swimming behavior."""
         print("The fish is swimming")
-        def habitat(self):
+    def habitat(self):
         """Fish habitat description."""
         print("The fish lives in water")
 
