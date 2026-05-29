@@ -1,4 +1,4 @@
--- Creates the database if it does not already exist
+-- CREATE SOMETHING
 CREATE DATABASE IF NOT EXISTS hbtn_0d_usa;
 USE hbtn_0d_usa;
 CREATE TABLE IF NOT EXISTS cities (
